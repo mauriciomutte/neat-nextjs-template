@@ -1,5 +1,9 @@
-import Head from 'next/head';
+import Head from "next/head";
 
 export default function Home() {
-	return <h1>Hello World</h1>;
+	return (
+		<Head>
+			<h1>nextjs-playground</h1>
+		</Head>
+	);
 }
