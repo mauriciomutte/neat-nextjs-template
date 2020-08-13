@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="styles__Wrapper-czREMl bljgDb"
+>
+  <h2
+    class="styles__Title-fMTgIO fjrrRF"
+  >
+    nextjs-playground
+  </h2>
+  <p
+    class="styles__Description-htEhDc kiZXgT"
+  >
+    Typescript, ReactJS, NextJS and styled-components
+  </p>
+  <img
+    alt="Code thinking"
+    class="styles__Illustration-fhoxhO hNVvPh"
+    src="/img/home-illustration.svg"
+  />
+</main>
+`;

@@ -8,6 +8,6 @@ describe('<Main />', () => {
 
 		expect(screen.getByRole('heading', { name: /nextjs-playground/i })).toBeInTheDocument();
 
-		expect(container.firstChild).toMatchSnapshot;
+		expect(container.firstChild).toMatchSnapshot();
 	});
 });
