@@ -8,6 +8,7 @@ function App({ Component, pageProps }: AppProps) {
 		<>
 			<Head>
 				<title>nextjs-playground</title>
+				<link rel="manifest" href="/manifest.json" />
 				<meta name="description" content="A simple nextjs-playground" />
 			</Head>
 			<GlobalStyles />
