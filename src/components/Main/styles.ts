@@ -1,27 +1,30 @@
-import styled from 'styled-components';
+import { Wrapper as Tech } from 'components/Tech/styles';
+import styled, { css } from 'styled-components';
 
 export const Wrapper = styled.main`
-	background-color: #06092b;
-	color: #fff;
-	width: 100%;
-	height: 100%;
-	padding: 3rem;
-	text-align: center;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+	${({ theme }) => css`
+		color: ${theme.colors.black};
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		height: 100%;
+		width: 100%;
+	`}
 `;
 
-export const Title = styled.h2`
-	font-size: 2.5rem;
+export const Title = styled.h1`
+	font-size: 3.33rem;
 `;
 
-export const Description = styled.p`
-	font-size: 2rem;
-	font-weight: 400;
-`;
-export const Illustration = styled.img`
-	margin-top: 3rem;
+export const Image = styled.img`
 	width: min(30rem, 100%);
+`;
+
+export const Techs = styled.section`
+	margin: 1rem 0;
+
+	${Tech} {
+		margin: 1rem;
+	}
 `;
