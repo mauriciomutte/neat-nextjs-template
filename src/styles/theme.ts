@@ -8,8 +8,8 @@ export default {
 	},
 	colors: {
 		white: '#FAFAFA',
-		black: '#030517',
-		gray: '#8F8F8F',
+		black: '#272727',
+		gray: '#eee',
 	},
 	spacings: {
 		xxsmall: '0.8rem',
