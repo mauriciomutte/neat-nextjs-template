@@ -1,26 +1,22 @@
 module.exports = function (plop) {
 	plop.setGenerator('component', {
 		description: 'application component',
-
-		// inquirer prompts
 		prompts: [
 			{
 				type: 'input',
 				name: 'name',
-				message: 'Component name?',
+				message: 'What is component name?',
 			},
 		],
-
-		// actions to perform
 		actions: [
 			{
 				type: 'add',
-				path: '../src/components/{{pascalCase name}}/index.tsx',
+				path: '../src/components/{{pascalCase name}}/{{pascalCase name}}.tsx',
 				templateFile: 'templates/index.tsx.hbs',
 			},
 			{
 				type: 'add',
-				path: '../src/components/{{pascalCase name}}/stories.tsx',
+				path: '../src/components/{{pascalCase name}}/{{pascalCase name}}.stories.tsx',
 				templateFile: 'templates/stories.tsx.hbs',
 			},
 			{
@@ -30,7 +26,7 @@ module.exports = function (plop) {
 			},
 			{
 				type: 'add',
-				path: '../src/components/{{pascalCase name}}/test.tsx',
+				path: '../src/components/{{pascalCase name}}/__tests__/{{pascalCase name}}.spec.tsx',
 				templateFile: 'templates/test.tsx.hbs',
 			},
 		],
