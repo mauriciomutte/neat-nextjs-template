@@ -9,7 +9,7 @@
 2. Run `yarn install`
 3. Run `yarn dev` and start exploring
 
-## ⚒️ Technologies used
+## ⚒️ Technologies
 
 ### Core:
 
