@@ -1,6 +1,15 @@
-# NextJS Playground
+![next_playground_banner](https://user-images.githubusercontent.com/20569339/131233112-1465ec8a-d1a3-4a41-a85d-9b5bd670827d.png)
 
-## Technologies used
+
+<h1 align="center" >NextJS Playground</h1>
+
+## ✨ Get started
+
+1. Clone this repo
+2. Run `yarn install`
+3. Run `yarn dev` and start exploring
+
+## ⚒️ Technologies used
 
 ### Core:
 
@@ -16,12 +25,6 @@
 - Husky
 - ESLint + Prettier
 
-## Get started
-
-1. Clone this repo
-2. Run `yarn install`
-3. Run `yarn dev` and start exploring
-
-## Contributing
+## 🏷️ Contributing
 
 If you want to contribute please fork the repository and get your hands dirty, and make the changes as you'd like and submit the Pull request. Any questions, ask me on [Twitter](https://twitter.com/mauriciomutte).
