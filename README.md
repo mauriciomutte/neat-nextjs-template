@@ -2,9 +2,9 @@
 
 ## Roadmap tools
 
-- [ ] Typescript
-- [ ] React 18
-- [ ] Next 12
+- [x] Typescript
+- [x] React 18
+- [x] Next 12
 - [ ] Editorconfig
 - [ ] ESLint
 - [ ] Prettier
