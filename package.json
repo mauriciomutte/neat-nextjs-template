@@ -1,0 +1,8 @@
+{
+  "name": "nextjs-typescript-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mauriciomutte/nextjs-typescript-template.git",
+  "author": "Mauricio Mutte <mauriciomutte.mm@gmail.com>",
+  "license": "MIT"
+}
