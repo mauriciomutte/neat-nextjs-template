@@ -1,7 +1,6 @@
 ![next_playground_banner](https://user-images.githubusercontent.com/20569339/131233112-1465ec8a-d1a3-4a41-a85d-9b5bd670827d.png)
 
-
-<h1 align="center" >NextJS Playground</h1>
+<h1 align="center" >NextJS TypeScript Template</h1>
 
 ## ✨ Get started
 
