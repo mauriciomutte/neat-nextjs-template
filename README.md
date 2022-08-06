@@ -6,7 +6,7 @@
 - [x] React 18
 - [x] Next 12
 - [x] Yarn V3
-- [ ] Editorconfig
+- [x] Editorconfig
 - [ ] ESLint
 - [ ] Prettier
 - [ ] Husky
