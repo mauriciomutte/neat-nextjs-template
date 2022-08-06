@@ -5,6 +5,7 @@
 - [x] Typescript
 - [x] React 18
 - [x] Next 12
+- [x] Yarn V3
 - [ ] Editorconfig
 - [ ] ESLint
 - [ ] Prettier
