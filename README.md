@@ -9,9 +9,9 @@
 - [x] Editorconfig
 - [x] ESLint
 - [x] Prettier
-- [ ] Husky
-- [ ] lint-staged
-- [ ] Commitlint
+- [x] Husky
+- [x] lint-staged
+- [x] Commitlint
 - [ ] GitHub Actions
 
 ## Getting Started
