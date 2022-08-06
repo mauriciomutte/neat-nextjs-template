@@ -9,6 +9,7 @@
 			"files": ["**/*.ts?(x)"],
 			"plugins": ["@typescript-eslint/eslint-plugin"],
 			"extends": ["plugin:@typescript-eslint/recommended", "prettier"],
+			"parser": "@typescript-eslint/parser",
 			"rules": {
 				"@typescript-eslint/explicit-function-return-type": "off",
 				"@typescript-eslint/explicit-module-boundary-types": "off",
