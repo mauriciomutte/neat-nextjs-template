@@ -7,8 +7,8 @@
 - [x] Next 12
 - [x] Yarn V3
 - [x] Editorconfig
-- [ ] ESLint
-- [ ] Prettier
+- [x] ESLint
+- [x] Prettier
 - [ ] Husky
 - [ ] lint-staged
 - [ ] Commitlint
