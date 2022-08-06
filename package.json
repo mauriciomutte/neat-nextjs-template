@@ -14,7 +14,7 @@
 		"postinstall": "husky install"
 	},
 	"lint-staged": {
-		"./src/**/*.{ts,tsx}": [
+		"**/*.ts?(x)": [
 			"eslint --ignore-path .gitignore --fix",
 			"prettier --ignore-path .gitignore --write"
 		]
