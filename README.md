@@ -1,6 +1,6 @@
 # NextJS + TypeScript Template
 
-Test CI
+Test CI cache
 
 ## Roadmap tools
 
