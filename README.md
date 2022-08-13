@@ -1,5 +1,7 @@
 # NextJS + TypeScript Template
 
+Test CI
+
 ## Roadmap tools
 
 - [x] 🛡️ Typescript
