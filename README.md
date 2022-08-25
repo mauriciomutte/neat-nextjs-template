@@ -12,7 +12,7 @@
 - [x] 🐶 Husky
 - [x] 🚫 lint-staged
 - [x] 📝 Commitlint
-- [ ] 👷 GitHub Actions
+- [x] 👷 GitHub Actions
 - [ ] 🖌️ Renovate
 
 ## Getting Started
