@@ -17,7 +17,15 @@
 
 ## Getting Started
 
-First, run the development server:
+Create a new project using this template:
+
+```bash
+yarn create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
+```
+
+### Development
+
+To start the project locally, run:
 
 ```bash
 yarn dev
