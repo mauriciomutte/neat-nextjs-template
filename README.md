@@ -13,7 +13,7 @@
 - [x] 🚫 lint-staged
 - [x] 📝 Commitlint
 - [x] 👷 GitHub Actions
-- [ ] 🖌️ Renovate
+- [x] 🖌️ Renovate
 
 ## Getting Started
 
