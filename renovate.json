@@ -4,7 +4,7 @@
 		"config:base"
 	],
 	"labels": ["dependencies"],
-	"semanticCommits": true,
+	"semanticCommits": "enabled",
 	"stabilityDays": 7,
 	"prCreation": "not-pending",
 	"packageRules": [
