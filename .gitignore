@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+.pnp.*
 .pnp.js
 
 # testing
@@ -34,12 +35,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# Yarn
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
