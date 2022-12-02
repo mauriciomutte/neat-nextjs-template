@@ -5,7 +5,7 @@
 - [x] 🛡️ Typescript
 - [x] ⚛️ React 18
 - [x] ⏭️ Next 12
-- [x] 🧶 Yarn V3
+- [x] 🚅 pnpm
 - [x] 🐭 Editorconfig
 - [x] 🧰 ESLint
 - [x] 💖 Prettier
@@ -20,7 +20,7 @@
 Create a new project using this template:
 
 ```bash
-yarn create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
+pnpm create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
 ```
 
 ### Development
@@ -28,5 +28,5 @@ yarn create next-app -e https://github.com/mauriciomutte/nextjs-typescript-templ
 To start the project locally, run:
 
 ```bash
-yarn dev
+pnpm dev
 ```
