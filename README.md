@@ -33,7 +33,7 @@ yarn create next-app -e https://github.com/mauriciomutte/nextjs-typescript-templ
 pnpm create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
 ```
 
-### Running locally
+## Running locally
 
 To start the project locally, run:
 
