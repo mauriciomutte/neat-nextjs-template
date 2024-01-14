@@ -19,11 +19,11 @@
 Create a new project using this template:
 
 ```bash
-npm create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
+npm create next-app -e https://github.com/mauriciomutte/neat-nextjs-template
 # or
-yarn create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
+yarn create next-app -e https://github.com/mauriciomutte/neat-nextjs-template
 # or
-pnpm create next-app -e https://github.com/mauriciomutte/nextjs-typescript-template
+pnpm create next-app -e https://github.com/mauriciomutte/neat-nextjs-template
 ```
 
 ## Running locally
